@@ -8,8 +8,7 @@ This app helps users add, delete, update, and manage todos with centralized Redu
 Add your live project link here:
 
 ```bash
-https://your-live-demo-link.com
-
+https://my-redux-todo-app-ten.vercel.app/
 
 
 
