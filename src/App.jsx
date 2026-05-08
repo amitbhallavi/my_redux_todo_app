@@ -1,6 +1,6 @@
 import React from 'react'
 import Navbar from "./components/Navbar"
-import Form from './components/form'
+import Form from './components/Form'
 
 const App = () => {
 
